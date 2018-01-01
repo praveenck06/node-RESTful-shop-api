@@ -1,0 +1,4 @@
+"env":{
+    "MONGO_PASSWORD":"node-shop",
+    "JWT_KEY":"powerful"
+}
